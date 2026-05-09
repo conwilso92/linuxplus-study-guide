@@ -1,6 +1,6 @@
-# CompTIA Linux+ XK0-005/006 Study Guide
+# CompTIA Linux+ XK0-006 Study Guide
 
-A comprehensive study guide for the CompTIA Linux+ certification exam, synthesized from course materials and official exam objectives. Built as a single dark-mode HTML file with full anchor navigation. Compatible with both XK0-005 and XK0-006 exam versions.
+A comprehensive study guide for the CompTIA Linux+ (XK0-006) certification exam, synthesized from course materials and official exam objectives. Built as a single dark-mode HTML file with full anchor navigation.
 
 🔗 **[View the Study Guide](https://conwilso92.github.io/linuxplus-study-guide)**
 
