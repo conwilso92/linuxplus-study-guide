@@ -2,7 +2,7 @@
 
 A comprehensive study guide for the CompTIA Linux+ certification exam, synthesized from course materials and official exam objectives. Built as a single dark-mode HTML file with full anchor navigation. Compatible with both XK0-005 and XK0-006 exam versions.
 
-🔗 **[View the Study Guide](https://conwilso92.github.io/linux-plus-study-guide)**
+🔗 **[View the Study Guide](https://conwilso92.github.io/linuxplus-study-guide)**
 
 ---
 
@@ -59,4 +59,3 @@ Part of a broader CompTIA certification study toolkit:
 
 Built while studying for the CompTIA Linux+ certification at Star V Learning Centers, Jacksonville, FL. Materials synthesized from course slide decks (XK0-005) and the official XK0-006 exam objectives.
 
-**Certifications:** CompTIA A+ (Core 1 & Core 2 passed) · Server+ (passed) · Network+ (in progress) · Security+ (in progress) · Linux+ (in progress)
