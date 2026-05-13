@@ -525,8 +525,8 @@
         <div class="callout callout-exam">Octal: 7=rwx, 6=rw-, 5=r-x, 4=r--, 0=---. Common: 755 (executables/dirs), 644 (files), 600 (private). Read=4, Write=2, Execute=1.</div>
         <p class="mini-h">chmod / chown</p>
         <div class="cmd-grid">
-          <span class="cmd-term">chmod 755 file</span><span class="cmd-val">Absolute mode. Owner=rwx, Group=r-x, Others=r-x.</span>
-          <span class="cmd-term">chmod u+x file</span><span class="cmd-val">Symbolic mode. Add execute for owner.</span>
+          <span class="cmd-term">chmod 755 file</span><span class="cmd-val">Absolute mode: Numbers based. Owner=rwx, Group=r-x, Others=r-x.</span>
+          <span class="cmd-term">chmod u+x file</span><span class="cmd-val">Symbolic mode: Letters based. Add execute for owner.</span>
           <span class="cmd-term">chmod -R 755 dir/</span><span class="cmd-val">Apply recursively.</span>
           <span class="cmd-term">chown user:group file</span><span class="cmd-val">Change owner and group. <code>-R</code> for recursive.</span>
         </div>
